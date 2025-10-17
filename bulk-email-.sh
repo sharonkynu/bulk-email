@@ -1,8 +1,8 @@
 #!/bin/bash
 
 API_KEY="--------------<API_KEY>----------"
-DOMAIN="support.bringgg.com"
-FROM_EMAIL="support@bringgg.com"
+DOMAIN="support.kynu.com"
+FROM_EMAIL="support@kynu.com"
 SUBJECT="Light up your Diwali with Bringgg & Earn Rewards! 🎁"
 HTML_FILE="/home/sharon/Downloads/Diwali_wishes.html"
 CSV_FILE="/home/sharon/Downloads/android-users-bringgg.csv"
