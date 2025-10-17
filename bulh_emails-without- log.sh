@@ -1,14 +1,14 @@
 #!/bin/bash
 
 API_KEY="<API-KEY>"
-DOMAIN="support.bringgg.com"
-FROM_EMAIL="support@bringgg.com"
+DOMAIN="support.kynu.com"
+FROM_EMAIL="support@kynu.com"
 SUBJECT="Light up your Diwali with Bringgg & Earn Rewards! 🎁"
 HTML_FILE="/home/sharon/Downloads/Diwali_wishes.html"
 CSV_FILE="/home/sharon/Downloads/Bringgg_users_List_2025-10-15.csv"
 
 BATCH_SIZE=600
-WAIT_TIME=400  # 10 minutes
+WAIT_TIME=600  # 10 minutes
 
 count=0
 emails=()
